@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wanessa Nascimento
 - 👀 I’m a Senior Software Engineer working in the investiment marketing 
-- 🌱 I am interested in learning new feameworks and technologies and improve my knowlege in JAva and Angular 
+- 🌱 I am interested in learning new feameworks and technologies and improve my knowlege in Java and Angular 
 - 📫 My linkdin feel free to contact me >> https://www.linkedin.com/in/wanessajava/
 
 <!---
